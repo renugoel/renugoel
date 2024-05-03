@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Hello! I'm Renu Jindal, M.Tech(CSE), Currently pursuing a Data science course from Upgrad(Sept 2023-Current). 
 
 Proficient in Python programming. My expertise extends across various aspects, including data cleaning, statistical analysis, and visualization using Matplotlib and Pandas.
